@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/linkavych?color=fabd2f&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FLinkavych&screen_name=Linkavych)
 
-> "Before all else, listen."
+```"Before all else, listen."```
 </div>
 
 ## whoami
