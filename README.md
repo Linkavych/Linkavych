@@ -38,22 +38,34 @@
 
 ### Languages:
 <div align=left>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code>
-<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code>
+<a href="https://www.python.org">
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
+<a href="https://www.cprogramming.com/">
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code></a>
+<a href="https://docs.microsoft.com/en-us/powershell/">
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png"></code></a>
+<a href="https://mywiki.wooledge.org/BashGuide">
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></code></a>
 </div>
 
 ### Tools:
 <div align=left>
-<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /></code>
-<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-  <code><img height="45" src="https://www.vectorlogo.zone/logos/freebsd/freebsd-icon.svg"/></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="45" src="https://symbols.getvecta.com/stencil_94/16_raspberry-pi-icon.087cac93d9.svg"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" height="45"></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" height="45"></code>
-<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"></code>
+<a href="https://www.freebsd.org/">
+<code><img height="45" src="https://www.vectorlogo.zone/logos/freebsd/freebsd-icon.svg"/></code></a>
+<a href="https://www.debian.org">
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" /></code></a>
+<a href="https://ubuntu.com">
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code></a>
+<a href="https://code.visualstudio.com/">
+<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code></a>
+<a href="https://www.raspberrypi.org/">
+<code><img height="45" src="https://symbols.getvecta.com/stencil_94/16_raspberry-pi-icon.087cac93d9.svg"></code></a>
+<a href="https://docs.ansible.com/ansible_community.html">
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" height="45"></code></a>
+<a href="https://jupyter.org/">
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" height="45"></code></a>
+<a href="https://www.vim.org/">
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"></code></a>
 </div>
 
 ---
