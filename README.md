@@ -22,6 +22,10 @@
     - 🏴‍☠️ Linux malware has my interest at the moment! 
 - 📗 Building my knowledge base (Obsidian notes)
 
+### Courses I'm taking:
+- [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing-26037/about/) - Janurary 2022
+- [Building Intrusion Detection Honeypots](https://www.networkdefense.io/library/building-intrusion-detection-honeypots-58155/about/) - May 2022
+
 ### Things that I love:
 - 📕 Learning: ☠️ Malware Analysis, 🕵️‍♂️ Find evil!
 - 🖥️ Teaching
@@ -58,8 +62,6 @@
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code></a>
 <a href="https://code.visualstudio.com/">
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code></a>
-<a href="https://www.raspberrypi.org/">
-<code><img height="45" src="https://symbols.getvecta.com/stencil_94/16_raspberry-pi-icon.087cac93d9.svg"></code></a>
 <a href="https://docs.ansible.com/ansible_community.html">
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" height="45"></code></a>
 <a href="https://jupyter.org/">
@@ -83,7 +85,6 @@
 <br />
 <br />
 
-
 ---
 
 ### Acknowledgements
@@ -92,11 +93,6 @@
 ### Certifications 📜
 - [ECPPT](https://verified.elearnsecurity.com/certificates/d9d50bbf-35a2-4983-99ed-5e9d6ca8d6e3)
 - Sec+ 
-
-### Courses
-- [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing-26037/about/) - Janurary 2022
-- [Building Intrusion Detection Honeypots](https://www.networkdefense.io/library/building-intrusion-detection-honeypots-58155/about/) - May 2022
-
 
 [linkedin]: https://linkedin.com/in/adamvlink
 [twitter]: https://twitter.com/linkavych
