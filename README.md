@@ -93,6 +93,9 @@
 - [ECPPT](https://verified.elearnsecurity.com/certificates/d9d50bbf-35a2-4983-99ed-5e9d6ca8d6e3)
 - Sec+ 
 
+### Courses
+- [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing-26037/about/) - Janurary 2022
+- [Building Intrusion Detection Honeypots](https://www.networkdefense.io/library/building-intrusion-detection-honeypots-58155/about/) - May 2022
 
 
 [linkedin]: https://linkedin.com/in/adamvlink
