@@ -15,6 +15,13 @@
 - 🪖 Marine
 - 👨‍🎓 Student: 🔥 Can't stop, won't stop!
 
+### Things that I love:
+- 📕 Learning: ☠️ Malware Analysis, 🕵️‍♂️ Find evil!
+- 🖥️ Teaching
+- 👨‍👩‍👧‍👧 Family
+- 🧩 Puzzles
+- 🏞️ Outdoors life!
+
 ### What I'm doing:
 - 💾 Practicing C and Python 🐍
     - Small projects and proofs of concept of techniques I learn
@@ -22,16 +29,11 @@
     - 🏴‍☠️ Linux malware has my interest at the moment! 
 - 📗 Building my knowledge base (Obsidian notes)
 
-### Courses I'm taking:
+### Courses I've taken (recently):
 - [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing-26037/about/) - Janurary 2022
 - [Building Intrusion Detection Honeypots](https://www.networkdefense.io/library/building-intrusion-detection-honeypots-58155/about/) - May 2022
+- [SANS 518 - MacOS and iOS Forensics](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/) - May 2022
 
-### Things that I love:
-- 📕 Learning: ☠️ Malware Analysis, 🕵️‍♂️ Find evil!
-- 🖥️ Teaching
-- 👨‍👩‍👧‍👧 Family
-- 🧩 Puzzles
-- 🏞️ Outdoors life!
 
 ### Where I've Been
 - 🛡️ USMC (Tanks, Security)
