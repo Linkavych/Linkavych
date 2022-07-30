@@ -33,6 +33,7 @@
 - [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing-26037/about/) - Janurary 2022
 - [Building Intrusion Detection Honeypots](https://www.networkdefense.io/library/building-intrusion-detection-honeypots-58155/about/) - May 2022
 - [SANS 518 - MacOS and iOS Forensics](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/) - May 2022
+- [SANS 585 - Smartphone Forensic Analysis In-Depth](https://www.sans.org/cyber-security-courses/advanced-smartphone-mobile-device-forensics/) - July 2022
 
 
 ### Where I've Been
