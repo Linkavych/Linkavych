@@ -85,7 +85,7 @@
 
 [<img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">][linkedin]
 [<img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">][twitter]
-[<img align="left" width="45px" src="https://en.wikipedia.org/wiki/Mastodon_(software)#/media/File:Mastodon_logotype_(simple)_new_hue.svg">][mastodon]
+[<img align="left" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/223px-Mastodon_Logotype_%28Simple%29.svg.png">][mastodon]
 <a rel="me" href="https://infosec.exchange/@linkavych"></a>
 <br />
 <br />
