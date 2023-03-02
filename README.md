@@ -96,8 +96,9 @@
 - Thanks to both [codeSTACKr](https://github.com/codeSTACKr) and [HuskyHacks](https://github.com/huskyhacks) for the README ideas!
 
 ### Certifications 📜
-- [ECPPT](https://verified.elearnsecurity.com/certificates/d9d50bbf-35a2-4983-99ed-5e9d6ca8d6e3)
-- Sec+ 
+- [SANS FOR578 - GCTI - Cyber Threat Intelligence](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/) - 2023
+- [ECPPT](https://verified.elearnsecurity.com/certificates/d9d50bbf-35a2-4983-99ed-5e9d6ca8d6e3) - 2021
+- Sec+ - 2020 
 
 [linkedin]: https://linkedin.com/in/adamvlink
 [twitter]: https://twitter.com/linkavych
