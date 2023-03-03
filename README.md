@@ -96,7 +96,7 @@
 - Thanks to both [codeSTACKr](https://github.com/codeSTACKr) and [HuskyHacks](https://github.com/huskyhacks) for the README ideas!
 
 ### Certifications 📜
-- [SANS FOR578 - GCTI - Cyber Threat Intelligence](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/) - 2023
+- [SANS FOR578 - GCTI - Cyber Threat Intelligence](https://www.credly.com/badges/eeb5a3c6-bb88-4fee-a15e-6797e38bbcf4/public_url) - 2023
 - [ECPPT](https://verified.elearnsecurity.com/certificates/d9d50bbf-35a2-4983-99ed-5e9d6ca8d6e3) - 2021
 - Sec+ - 2020 
 
