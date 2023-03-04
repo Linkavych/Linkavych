@@ -97,6 +97,7 @@
 
 ### Certifications 📜
 - [SANS FOR578 - GCTI - Cyber Threat Intelligence](https://www.credly.com/badges/eeb5a3c6-bb88-4fee-a15e-6797e38bbcf4/public_url) - 2023
+- [SANS GIAC Advisory Board](https://www.credly.com/badges/4bd298b9-f479-4815-ba9f-42fb598f0de0/public_url) - 2023
 - [ECPPT](https://verified.elearnsecurity.com/certificates/d9d50bbf-35a2-4983-99ed-5e9d6ca8d6e3) - 2021
 - Sec+ - 2020 
 
