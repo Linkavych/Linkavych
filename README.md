@@ -13,27 +13,30 @@
 - 👨 Father
 - 👫 Husband
 - 🪖 Marine
-- 👨‍🎓 Student: 🔥 Can't stop, won't stop!
+- 👨‍🎓 Student: 🔥 Never stop learning! 
 
 ### Things that I love:
-- 📕 Learning: ☠️ Malware Analysis, 🕵️‍♂️ Find evil!
+- 📕 Learning
 - 🖥️ Teaching
 - 👨‍👩‍👧‍👧 Family
 - 🧩 Puzzles
 - 🏞️ Outdoors life!
 
 ### What I'm doing:
+- :toolbox: Network security monitoring
+    - Detect threats, write signatures, configure the system
 - 💾 Practicing C and Python 🐍
     - Small projects and proofs of concept of techniques I learn
-- 🔬 Learning malware analysis and reverse engineering
-    - 🏴‍☠️ Linux malware has my interest at the moment! 
 - 📗 Building my knowledge base (Obsidian notes)
 
 ### Courses I've taken (recently):
+- [SANS SEC503 - Network monitoring and Threat Detection In-Depth](https://www.sans.org/cyber-security-courses/network-monitoring-threat-detection/) - April 2023
+- [cantrill.io - AWS Certified Solutions Architect Associate](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03) - March 2023
+- [SANS FOR578 - Cyber Threat Intelligence](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/) - January 2023
 - [Practical Packet Analysis](https://www.networkdefense.io/library/practical-packet-analysis-9113/about/) - August 2022
-- [SANS 585 - Smartphone Forensic Analysis In-Depth](https://www.sans.org/cyber-security-courses/advanced-smartphone-mobile-device-forensics/) - July 2022
+- [SANS FOR585 - Smartphone Forensic Analysis In-Depth](https://www.sans.org/cyber-security-courses/advanced-smartphone-mobile-device-forensics/) - July 2022
 - [Building Intrusion Detection Honeypots](https://www.networkdefense.io/library/building-intrusion-detection-honeypots-58155/about/) - May 2022
-- [SANS 518 - MacOS and iOS Forensics](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/) - May 2022
+- [SANS FOR518 - MacOS and iOS Forensics](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/) - May 2022
 - [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing-26037/about/) - Janurary 2022
 
 
