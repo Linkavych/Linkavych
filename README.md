@@ -30,6 +30,7 @@
 - 📗 Building my knowledge base (Obsidian notes)
 
 ### Courses I've taken (recently):
+- [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa) - September 2023
 - [SANS SEC503 - Network monitoring and Threat Detection In-Depth](https://www.sans.org/cyber-security-courses/network-monitoring-threat-detection/) - April 2023
 - [cantrill.io - AWS Certified Solutions Architect Associate](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03) - March 2023
 - [SANS FOR578 - Cyber Threat Intelligence](https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/) - January 2023
@@ -99,6 +100,7 @@
 - Thanks to both [codeSTACKr](https://github.com/codeSTACKr) and [HuskyHacks](https://github.com/huskyhacks) for the README ideas!
 
 ### Certifications 📜
+- [Red Hat Certified Systems Administrator](https://www.credly.com/badges/7d40ace6-4b10-447b-b432-4f2d1ffa30b6) - 2023
 - [SANS SEC503 - GCIA - Intrusion Analyst](https://www.credly.com/badges/1e40bf74-82c9-4818-9243-3259e4b33724) - 2023
 - [SANS FOR578 - GCTI - Cyber Threat Intelligence](https://www.credly.com/badges/eeb5a3c6-bb88-4fee-a15e-6797e38bbcf4/public_url) - 2023
 - [SANS GIAC Advisory Board](https://www.credly.com/badges/4bd298b9-f479-4815-ba9f-42fb598f0de0/public_url) - 2023
