@@ -30,6 +30,7 @@
 - 📗 Building my knowledge base (Obsidian notes)
 
 ### Courses I've taken (recently):
+- [SANS FOR572 - Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response](https://www.sans.org/cyber-security-courses/advanced-network-forensics-threat-hunting-incident-response/) - June 2024
 - [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa) - September 2023
 - [SANS SEC503 - Network monitoring and Threat Detection In-Depth](https://www.sans.org/cyber-security-courses/network-monitoring-threat-detection/) - April 2023
 - [cantrill.io - AWS Certified Solutions Architect Associate](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03) - March 2023
