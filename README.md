@@ -30,6 +30,7 @@
 - 📗 Building my knowledge base (Obsidian notes)
 
 ### Courses I've taken (recently):
+- [SANS LDR514 - Security Strategic Planning, Policy, and Leadership](https://www.sans.org/cyber-security-courses/strategic-security-planning-policy-leadership) - February 2026
 - [SANS FOR508 - Advanced Incident Response and Threat Hunting](https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training) - October 2025
 - [SANS FOR572 - Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response](https://www.sans.org/cyber-security-courses/advanced-network-forensics-threat-hunting-incident-response/) - June 2024
 - [Red Hat Certified Systems Administrator](https://www.redhat.com/en/services/certification/rhcsa) - September 2023
