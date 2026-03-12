@@ -29,7 +29,17 @@
     - Small projects and proofs of concept of techniques I learn
 - 📗 Building my knowledge base (Obsidian notes)
 
-### Courses I've taken (recently):
+### Certifications 📜
+- [Red Hat Certified Systems Administrator](https://www.credly.com/badges/7d40ace6-4b10-447b-b432-4f2d1ffa30b6) - 2023
+- [SANS SEC503 - GCIA - Intrusion Analyst](https://www.credly.com/badges/1e40bf74-82c9-4818-9243-3259e4b33724) - 2023
+- [SANS FOR578 - GCTI - Cyber Threat Intelligence](https://www.credly.com/badges/eeb5a3c6-bb88-4fee-a15e-6797e38bbcf4/public_url) - 2023
+- [SANS GIAC Advisory Board](https://www.credly.com/badges/4bd298b9-f479-4815-ba9f-42fb598f0de0/public_url) - 2023
+- [ECPPT](https://verified.elearnsecurity.com/certificates/d9d50bbf-35a2-4983-99ed-5e9d6ca8d6e3) - 2021
+- Sec+ - 2020
+
+<details>
+<summary>Courses I've taken (click to expand)</summary>
+
 - [SANS LDR514 - Security Strategic Planning, Policy, and Leadership](https://www.sans.org/cyber-security-courses/strategic-security-planning-policy-leadership) - February 2026
 - [SANS FOR508 - Advanced Incident Response and Threat Hunting](https://www.sans.org/cyber-security-courses/advanced-incident-response-threat-hunting-training) - October 2025
 - [SANS FOR572 - Advanced Network Forensics: Threat Hunting, Analysis, and Incident Response](https://www.sans.org/cyber-security-courses/advanced-network-forensics-threat-hunting-incident-response/) - June 2024
@@ -41,14 +51,15 @@
 - [SANS FOR585 - Smartphone Forensic Analysis In-Depth](https://www.sans.org/cyber-security-courses/advanced-smartphone-mobile-device-forensics/) - July 2022
 - [Building Intrusion Detection Honeypots](https://www.networkdefense.io/library/building-intrusion-detection-honeypots-58155/about/) - May 2022
 - [SANS FOR518 - MacOS and iOS Forensics](https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/) - May 2022
-- [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing-26037/about/) - Janurary 2022
+- [Effective Information Security Writing](https://www.networkdefense.io/library/effective-information-security-writing-26037/about/) - January 2022
 
+</details>
 
 ### Where I've Been
-- 🛡️ USMC (Tanks, Security)
-- 🪧 George Mason University
-- 🏫 University of San Diego
-- 🎓 Ball State University
+- USMC (Tanks, Security)
+- George Mason University
+- University of San Diego
+- Ball State University
 
 
 ### Languages:
@@ -84,7 +95,7 @@
 ---
 <br />
 
-![Linkavych's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkavych&count_private=true&theme=gruvbox&show_icons=true)
+![Linkavych's GitHub stats](https://github-readme-stats.vercel.app/api?username=linkavych&count_private=true&theme=gruvbox&show_icons=true&hide_rank=true)
 
 
 ### Connect with me:
@@ -99,16 +110,7 @@
 
 ---
 
-### Acknowledgements
-- Thanks to both [codeSTACKr](https://github.com/codeSTACKr) and [HuskyHacks](https://github.com/huskyhacks) for the README ideas!
-
-### Certifications 📜
-- [Red Hat Certified Systems Administrator](https://www.credly.com/badges/7d40ace6-4b10-447b-b432-4f2d1ffa30b6) - 2023
-- [SANS SEC503 - GCIA - Intrusion Analyst](https://www.credly.com/badges/1e40bf74-82c9-4818-9243-3259e4b33724) - 2023
-- [SANS FOR578 - GCTI - Cyber Threat Intelligence](https://www.credly.com/badges/eeb5a3c6-bb88-4fee-a15e-6797e38bbcf4/public_url) - 2023
-- [SANS GIAC Advisory Board](https://www.credly.com/badges/4bd298b9-f479-4815-ba9f-42fb598f0de0/public_url) - 2023
-- [ECPPT](https://verified.elearnsecurity.com/certificates/d9d50bbf-35a2-4983-99ed-5e9d6ca8d6e3) - 2021
-- Sec+ - 2020 
+*README inspired by [codeSTACKr](https://github.com/codeSTACKr) and [HuskyHacks](https://github.com/huskyhacks).* 
 
 [linkedin]: https://linkedin.com/in/adamvlink
 [twitter]: https://twitter.com/linkavych
